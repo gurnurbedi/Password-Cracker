@@ -1,8 +1,6 @@
 # importing random
 from random import*
 def find_func():
-    #from random import*
-    #from random import*
     user_pass = input("Enter your password")
 
     listt=["pass@123", "password", "gurnur"]
